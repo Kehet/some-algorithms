@@ -1,0 +1,18 @@
+{
+    "name": "kehet/some-algorithms",
+    "type": "project",
+    "license": "gpl-v3",
+    "autoload": {
+        "psr-4": {
+            "Kehet\\SomeAlgorithms\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Kehet",
+            "email": "Kehet@users.noreply.github.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
